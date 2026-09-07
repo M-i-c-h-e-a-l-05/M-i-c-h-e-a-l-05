@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=240&section=header&text=Micheal%20leveiro&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=AI%20Engineer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Micheal leveiro banner"/>
+</div>
 
-<!--
-**M-i-c-h-e-a-l-05/M-i-c-h-e-a-l-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+![Open to work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20work-3b82f6?style=flat-square)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+### About
+
+- ⌖ **Location** · chennai india
+
+### Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,js&theme=dark" alt="Languages"/>
+
+### Languages
+- 🇬🇧 **English** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+<div align="center">
+
+<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge/">ReadmeForge</a> · <a href="https://github.com/M-i-c-h-e-a-l-05">github.com/M-i-c-h-e-a-l-05</a></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=120&section=footer" width="100%" alt="Footer wave"/>
+
+</div>
